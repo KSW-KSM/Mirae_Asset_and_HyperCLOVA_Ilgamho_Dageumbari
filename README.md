@@ -24,7 +24,4 @@ CLOVA_AMD_API_KEY =
 
 5. 임베딩, LLM은 모두 CLOVA model을 사용하여 구현되었습니다.
 
-<video width="320" height="240" controls>
-  <source src="docs/DEMO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xa65SJHjrGs/0.jpg)](https://www.youtube.com/watch?v=xa65SJHjrGs "Video Title")
