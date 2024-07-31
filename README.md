@@ -24,4 +24,5 @@ CLOVA_AMD_API_KEY =
 
 5. 임베딩, LLM은 모두 CLOVA model을 사용하여 구현되었습니다.
 
+demo 영상 url: http://img.youtube.com/vi/xa65SJHjrGs/0.jpg)](https://www.youtube.com/watch?v=xa65SJHjrGs "Video Title"
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/xa65SJHjrGs/0.jpg)](https://www.youtube.com/watch?v=xa65SJHjrGs "Video Title")
