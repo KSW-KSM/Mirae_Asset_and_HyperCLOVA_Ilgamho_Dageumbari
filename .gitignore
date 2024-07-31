@@ -1,1 +1,3 @@
 dev/.env
+mirae-asset-news-analysis/node_modules/
+.venv

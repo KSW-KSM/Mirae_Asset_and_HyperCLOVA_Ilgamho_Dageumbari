@@ -94,7 +94,7 @@ class ArticleToKeyword:
         chain = prompt | self.llm
         print(data['data'][2]['text']) 
         #re = chain.invoke({"keyword": data['data'][2]['text']}) 
-        re = chain.invoke({"keyword": "급발진논란에 페달 블랙박스 의무화 법안 나왔다"}) 
+        re = chain.invoke({"keyword": "올림픽 > 삼성 > ai "}) 
         print(re.content) 
 
 ArticleToKeyword()
