@@ -19,4 +19,6 @@ CLOVA_AMD_API_KEY =
 
 3. `cd mirae-asset-news-analysis` 명령어로 프론트 폴더로 이동후 `npm install` 명령실행
 
-4. 임베딩, LLM은 모두 CLOVA model을 사용하여 구현되었습니다.
+4. 마지막으로 `npm start`
+
+5. 임베딩, LLM은 모두 CLOVA model을 사용하여 구현되었습니다.
